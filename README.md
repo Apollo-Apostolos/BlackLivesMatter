@@ -1,2 +1,3 @@
 # BlackLivesMatter
-Re-aligning BLM’s Integrity
+Re-aligning BLM’s Integrity;
+Stimulating Generational Reformation.
