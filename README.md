@@ -1,4 +1,5 @@
 # BlackLivesMatter
 As Much As Yours.
-line-break:Re-aligning BLM’s Integrity;
-line-break:Stimulating Generational Reformation.
+
+Re-aligning BLM’s Integrity;
+Stimulating Generational Reformation.
