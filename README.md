@@ -1,4 +1,2 @@
-# BlackLivesMatter
-As Much As Yours.
+This will be repurposed as the site develops
 
-Stimulating Generational Healing
