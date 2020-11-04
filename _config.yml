@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Apollo-Apostolos.github.io/BlackLivesMatter"
+title:		           "BlackLivesMatter"
 description:	       "A Place To Find Your Next Step"
 author:              "Apollo Apostolos"
 
